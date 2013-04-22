@@ -1,5 +1,5 @@
 #CleanTabAnalys
-####CleanTabAnalys is actually now part of EpicorAutoPilot (Now even Gooeyier!)
+###CleanTabAnalys is actually now part of EpicorAutoPilot (Now even Gooeyier!)
 
 #What this does is turn OpenEdge Progress's TabAnalys output (_proutil dbname -C tabanalys) into a nice, neat CSV ready for actual use
 
